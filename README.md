@@ -131,8 +131,14 @@ plt.show()
 ~~~
 
 # OUTPUT:
+![Screenshot 2024-03-24 200432](https://github.com/SAKTHIPRIYASATHISH/Ex-2--NN/assets/119104282/234c4604-ce5a-4293-835d-5c06056a0058)
 
-    ''' Show your result '''
+![Screenshot 2024-03-24 200516](https://github.com/SAKTHIPRIYASATHISH/Ex-2--NN/assets/119104282/4f7bb27f-a351-4ea7-9afe-e9531c198f00)
+
+![Screenshot 2024-03-24 200538](https://github.com/SAKTHIPRIYASATHISH/Ex-2--NN/assets/119104282/68d9caea-eec7-4ed1-9ff4-d43f09ce0726)
+
+
+
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
